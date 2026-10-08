@@ -100,15 +100,16 @@ The project uses different visualization techniques to explore distributions, co
 
 ### Age Distribution
 
-![Age Distribution](project_visuals/01_histogram.png)
+<img width="989" height="590" alt="01_histogram" src="https://github.com/user-attachments/assets/1062caa3-d3b9-495d-a0a7-b73c0ff64363" />
 
 ### Healthcare Variables Correlation
 
-![Healthcare Variables Correlation](project_visuals/08_heatmap.png)
+<img width="921" height="690" alt="08_heatmap" src="https://github.com/user-attachments/assets/228a0c85-1bbb-45ea-94bf-cbed529c46b3" />
 
 ### Age vs. Doctor Visits by Gender
 
-![Age vs Doctor Visits by Gender](project_visuals/11_scatter_plot.png)
+<img width="990" height="590" alt="11_scatter_plot" src="https://github.com/user-attachments/assets/9c6c3cac-a95b-43c6-aa62-f42d55890c6b" />
+
 
 > More visualizations are available in the `project_visuals` folder.
 
@@ -139,6 +140,7 @@ The analysis demonstrates how Python-based data analytics and visualization can 
 ## Author
 
 **Sahil Rushikant Mahadik**
+<br>
 *Healthcare Analytics for Doctor Visits*
 
 GitHub: https://github.com/sahilmahadik-dev
