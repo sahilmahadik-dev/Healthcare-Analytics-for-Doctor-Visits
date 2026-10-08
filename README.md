@@ -1,4 +1,4 @@
-# Healthcare Analytics for Doctor Visits
+# 🩺 Healthcare Analytics for Doctor Visits
 
 ## Project Overview
 
@@ -140,7 +140,5 @@ The analysis demonstrates how Python-based data analytics and visualization can 
 ## Author
 
 **Sahil Rushikant Mahadik**
-<br>
-*Healthcare Analytics for Doctor Visits*
 
 GitHub: https://github.com/sahilmahadik-dev
